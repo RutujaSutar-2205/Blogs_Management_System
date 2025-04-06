@@ -1,0 +1,1 @@
+Guide to deploy frontend on Netlify
